@@ -1,0 +1,47 @@
+body {
+  margin: 200px 200px 200px 200px;
+  padding: 50;
+  background-color: #553768;
+  align-content: center;
+  /* background-image:url(/images/todoback.jpg); */
+  /* repeat:none; */
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+.fi {
+  border-radius: 20px;
+  border: 1px solid white;
+}
+#bottom_bound {
+  background-color: rgb(173, 163, 173);
+  width: 300px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+.fi > #btn_home {
+  background-color: #553768;
+  /* align-content: left; */
+  padding: 10px;
+  /* width: 180px; */
+
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  margin-top: 50px;
+}
+.f1 button {
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  /* margin: auto; */
+  color: #553768;
+}
+#logo_flex {
+  width: 20%;
+  height: 20%;
+}

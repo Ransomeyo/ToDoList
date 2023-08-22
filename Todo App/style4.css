@@ -1,0 +1,40 @@
+body {
+  background-color: #553768;
+  margin: 50px;
+}
+.Tocontainer {
+  background-color: white;
+  padding: 50px;
+  padding-right: 0;
+  color: black;
+  border: 1px solid white;
+  border-radius: 10px;
+  /* margin-right: 650px; */
+  /* margin-left: 650px; */
+}
+.footer {
+  padding-top: 100px;
+  color: white;
+}
+
+#todo {
+  background-color: #553768;
+  /* align-content: left; */
+  padding: 10px;
+  /* width: 180px; */
+}
+
+#viewall {
+  background-color: #553768;
+  /* align-content: left; */
+  padding: 10px;
+  margin-right: 70px;
+  /* width: 180px; */
+  border-radius: 4px;
+}
+.allinput {
+  border: 2px solid #553768;
+}
+#ifform {
+  padding: 10px;
+}

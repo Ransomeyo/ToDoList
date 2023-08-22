@@ -1,0 +1,30 @@
+body {
+  background-color: #553768;
+  color: white;
+  margin: 50px;
+  align-items: center;
+  /* height: 50px; */
+}
+.in_body3 {
+  background-color: white;
+  padding: 50px;
+  margin: auto;
+  max-width: auto;
+  color: black;
+  border-radius: 20px;
+}
+#hello {
+  color: #ba7ee0;
+  font-style: italic;
+  padding-bottom: 100px;
+}
+.footer {
+  padding-top: 100px;
+}
+
+#continue {
+  background-color: #553768;
+  /* align-content: left; */
+  padding: 10px;
+  /* width: 180px; */
+}
